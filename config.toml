@@ -1,5 +1,6 @@
 publishdir: data
 baseURL = "https://pan-con-queso.github.io/SitioWeb_ManiraMatamala/"
+title= "Manira Matamala"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
